@@ -6,6 +6,3 @@ plugins:
 title: Homepage of Camdon Cady
 description: This is very much a work in progress
 show_downloads: false
-
-include:
-- _posts
